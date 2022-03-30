@@ -1,16 +1,16 @@
 ### Hi there 👋
 <hr>
 <p align="center">
-    <a href="https://linkedin.com/in/jeffrfsimoes">
+    <a href="https://linkedin.com/in/jeffrfsimoes" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="https://facebook.com/jeff.rayner.35">
+    <a href="https://facebook.com/jeff.rayner.35" target="_blank"> 
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
     </a>
-    <a href="https://instagram.com/jeff_rayner">
+    <a href="https://instagram.com/jeff_rayner" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
     </a>
-    <a href="mailto:jeff_rayner@hotmail.com">
+    <a href="mailto:jeff_rayner@hotmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
     </a>
 </p>
@@ -34,7 +34,7 @@
 
 ### 📈 GitHub
 <p align="center">
-    <a href="https://github.com/JeffRayner">
+    <a href="https://github.com/JeffRayner" target="_blank">
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JeffRayner&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JeffRayner&layout=compact&theme=cobalt"/>
     </a>

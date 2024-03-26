@@ -5,10 +5,13 @@
 
 Sou Jeff Rayner, professor de tecnologia no [Senac](https://www.sp.senac.br) , sou um pouco interessado em Python. Sou autodidata e apaixonado por código aberto e gosto de experimentar novas ideias.<br>
 Você pode me conhecer melhor nas minha redes abaixo
+
+
 </p>
 
 
 <p align="center">
+    <img src="python-essentials-2.png" width="128"><br><br>
     <a href="https://linkedin.com/in/jeffrfsimoes" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>

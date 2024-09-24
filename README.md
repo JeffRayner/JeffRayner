@@ -3,7 +3,7 @@
 <hr>
 <p align="center">
 
-Sou Jeff Rayner, professor de tecnologia no [Senac](https://www.sp.senac.br) , sou um pouco interessado em Python. Sou autodidata e apaixonado por código aberto e gosto de experimentar novas ideias.<br>
+Sou Jeff Rayner, professor de tecnologia, sou um pouco interessado em Python. Sou autodidata e procuro aprimorar meus conhecimentos em código aberto e gosto de experimentar novas ideias.<br>
 Você pode me conhecer melhor nas minha redes abaixo
 
 
